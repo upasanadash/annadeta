@@ -15,6 +15,7 @@ class App extends Component {
         </p>
         <p> created,invented,made by Our Brilliant Kushal and Talented Abhay.</p>
       </div>
+      <div> created by Upasana Dash </div>
     );
   }
 }
