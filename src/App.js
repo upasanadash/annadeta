@@ -14,8 +14,9 @@ class App extends Component {
           Welcome to Annateda site. This is the new release Movie <strong> The Hunting season is begin..<i> Annabella ka badla le ke aaya Annateda </i> </strong>.Must watch!
         </p>
         <p> created,invented,made by Our Brilliant Kushal and Talented Abhay.</p>
+        <div> created by Upasana Dash </div>
       </div>
-      <div> created by Upasana Dash </div>
+
     );
   }
 }
